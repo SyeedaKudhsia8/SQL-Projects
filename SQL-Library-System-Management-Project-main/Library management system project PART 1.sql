@@ -1,5 +1,5 @@
 -- Library management system project PART 1
--- by mauzum shamil
+
 
 SELECT * FROM books;
 SELECT * FROM branch;
