@@ -57,7 +57,7 @@ This project showcases SQL skills essential for database management and analysis
 
 **LINKEDIN**: http://linkedin.com/in/Syeeda/
 **PORTFOLIO**: https://linktr.ee/syeedafatima
-**GITHUB**: https://github.com/syeedafatima8
+**GITHUB**: https://github.com/syeedakudhsia8
 **EMAIL**: datacoding25@gmail.com
 
 
