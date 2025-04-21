@@ -1,6 +1,3 @@
-Sure! Here's a detailed, well-structured `README.md` tailored for your **COVID-19 India Analysis** project, assuming you've done basic cleaning, feature engineering, and exploratory data analysis (EDA).
-
----
 
 ## 📊 COVID-19 India Analysis & Visualization
 
