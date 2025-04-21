@@ -1,5 +1,5 @@
 -- Library management system project
--- by mauzum shamil
+-- by Syeeda
 
 -- inserting data into the tables
 
