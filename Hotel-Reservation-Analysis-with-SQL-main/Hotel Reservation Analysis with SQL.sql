@@ -1,5 +1,4 @@
 -- Hotel Reservation Analysis with SQL 
---  Mauzum Shamil
 
 USE hotel_database;
 
