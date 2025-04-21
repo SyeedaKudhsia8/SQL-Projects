@@ -1,5 +1,5 @@
 -- Library management system project
--- by mauzum shamil
+-- by Syeeda kudhsia fatima
 
 -- creating branch table 
 
